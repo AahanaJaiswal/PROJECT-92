@@ -1,0 +1,25 @@
+
+#output
+{
+background: rgb(143, 219, 247);
+border-radius: 10px;
+border-top: 10px solid #004cff;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+
+button{
+    font-size:30px;
+    width: 70px;
+}
+
+div{
+    font-size:60px;
+    }
+
+    body{
+        text-align:center;
+        background: linear-gradient(to bottom, #99ccff 0%, #ffccff 100%);
+        }
